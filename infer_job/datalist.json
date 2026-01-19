@@ -1,0 +1,8 @@
+{
+  "testing": [
+    {
+      "image": "input/pat_006.nii.gz",
+      "id": "pat_006"
+    }
+  ]
+}

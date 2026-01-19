@@ -1,0 +1,3 @@
+modality: CT
+datalist: ./infer_job/datalist.json
+dataroot: ./infer_job
